@@ -1,0 +1,26 @@
+{
+  "name": "pancake",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ethereumjs/common": "^2.6.0",
+    "@ethersproject/networks": "^5.5.1",
+    "@ethersproject/providers": "^5.5.1",
+    "@ethersproject/units": "^5.5.0",
+    "@pancakeswap/sdk": "^2.4.0",
+    "@uniswap/sdk": "^3.0.3",
+    "ethereumjs-common": "^1.5.2",
+    "ethereumjs-tx": "^2.1.2",
+    "ethers": "^5.5.2",
+    "etherscan-api": "^10.0.5",
+    "express": "^4.17.2",
+    "web3": "^1.6.1"
+  },
+  "devDependencies": {}
+}
