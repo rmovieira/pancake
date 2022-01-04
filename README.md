@@ -1,7 +1,10 @@
 # pancake
 Pra começar, precisa configurar a rede de test da binance, para isso adicione uma nova rede no seu gerenciador de carteira(exemplo: metamask):
+
 url da rede: https://data-seed-prebsc-1-s1.binance.org:8545/
+
 chaind Id: 97
+
 url do explorador: https://testnet.bscscan.com
 
 Após isso, é preciso depositar fundos na carteira pelo link: https://testnet.binance.org/faucet-smart
