@@ -6,8 +6,8 @@ const BUSD = "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56";
 const CSHIP = '0x6218079f1a5d50d3a8358093699b9943a662ef7c';
 
 const targetAccount = {
-    privateKey: 'e2b4212e698d49988a6a9b3c605f50330202394723f595743a082e3780c0aa7e',
-    address: '0xc78255fB982891825f4e203Ff8a576f8282b9f86',
+    privateKey: '<chave privada da carteira aqui>',
+    address: '<endereço da carteira aqui>',
 };
 
 (async () => {

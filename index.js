@@ -19,8 +19,8 @@ var originalAmountToBuyWith = '0.007' + Math.random().toString().slice(2, 7);
 var bnbAmount = web3.utils.toWei(originalAmountToBuyWith, 'ether');
 
 const targetAccount = {
-    privateKey: 'e2b4212e698d49988a6a9b3c605f50330202394723f595743a082e3780c0aa7e',
-    address: '0xc78255fB982891825f4e203Ff8a576f8282b9f86',
+    privateKey: '<chave privada da carteira aqui>',
+    address: '<endereço da carteira aqui>',
 };
 
 var res = buyOnlyone(targetAccount, bnbAmount);

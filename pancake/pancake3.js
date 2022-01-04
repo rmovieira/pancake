@@ -14,8 +14,8 @@ const BNB = "0xae13d989dac2f0debff460ac112a837c89baa7cd";
 const BUSD = "0x78867bbeef44f2326bf8ddd1941a4439382ef2a7";
 
 const targetAccount = {
-    privateKey: 'e2b4212e698d49988a6a9b3c605f50330202394723f595743a082e3780c0aa7e',
-    address: '0xc78255fB982891825f4e203Ff8a576f8282b9f86',
+    privateKey: '<chave privada da carteira aqui>',
+    address: '<endereço da carteira aqui>',
 };
 
 var BSC_FORK = Common.forCustomChain(
